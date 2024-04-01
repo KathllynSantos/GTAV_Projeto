@@ -22,7 +22,7 @@ Neste projeto, criamos uma Leading Page do **GTA V**, uma plataforma interativa 
 
 ## imagem do Projeto! 
 
-![image](https://github.com/KathllynSantos/GTAV_Projeto/assets/120657741/6b1b9fbb-145a-4d61-a1a8-bd188ff4ebdc)
+![image](https://github.com/KathllynSantos/GTAV_Projeto/assets/120657741/7f004bfc-6ac9-4036-acdc-267c1c9d4549)
 
 ![image](https://github.com/KathllynSantos/GTAV_Projeto/assets/120657741/30695d93-51be-4248-b2bf-d400033764fc)
 
